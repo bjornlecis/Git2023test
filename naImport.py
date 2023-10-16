@@ -1,1 +1,2 @@
-Print("Deze code na import")
+print("Deze code na import")
+print('test van kadir')
